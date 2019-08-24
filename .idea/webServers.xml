@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c2580e0-ad89-4bd2-8c03-e38382f33ba3" name="newAWSShakzee" url="http://13.233.64.2">
+        <fileTransfer host="13.233.64.2" port="22" privateKey="F:\ShakzeeAWS\LightsailDefaultKey-ap-south-1.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
