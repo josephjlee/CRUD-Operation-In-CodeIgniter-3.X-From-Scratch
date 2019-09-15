@@ -2,7 +2,7 @@
 Learn step by step how to perform CRUD operation in CodeIgniter 3.x from scratch.
 
 ## How can you learn..?
-You can leran the CRUD Operation In CodeIgniter 3.X from the official website of the shakzee (https://www.shakzee.com/courses/crud-operation-in-codeigniter-3-x-from-scratch-home-courses-detail/)
+You can learn the CRUD Operation In CodeIgniter 3.X from the official website of the shakzee (https://www.shakzee.com/courses/crud-operation-in-codeigniter-3-x-from-scratch-home-courses-detail/)
 
 
 
